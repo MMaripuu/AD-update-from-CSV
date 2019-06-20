@@ -1,2 +1,2 @@
 # AD-update-from-CSV
-Script for updating AD account attribute and group with values from CSV import
+PS script for updating AD account attribute and group with values from CSV import
